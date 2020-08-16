@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="daa1c0d0-4336-4275-9604-7ebdf52c213d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find># Não usada, as amostras são sempre random no validation k-fold</find>
+      <find>ens_stk =</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/utils/con_postgres.py" />
+        <option value="$PROJECT_DIR$/utils/definition_network.py" />
+        <option value="$PROJECT_DIR$/ensemble_stack_test.py" />
+        <option value="$PROJECT_DIR$/utils/preprocess_data.py" />
+        <option value="$PROJECT_DIR$/experiments/hyperparameter_tuning/experiment_multilabel/2020-04-09/multiclass_lstm_model.py" />
+        <option value="$PROJECT_DIR$/experiments/hyperparameter_tuning/binary_submodels_multiclass/improve_performance_we/submodels_comorbity.py" />
+        <option value="$PROJECT_DIR$/experiments/hyperparameter_tuning/binary_submodels_multiclass/improve_performance_we/word_embeddings_only_pathologies.py" />
+        <option value="$PROJECT_DIR$/experiments/hyperparameter_tuning/binary_submodels_multiclass/multiclass_submodels_pcad_v2.py" />
+        <option value="$PROJECT_DIR$/experiments/hyperparameter_tuning/binary_submodels_multiclass/submodels.py" />
+        <option value="$PROJECT_DIR$/experiments/hyperparameter_tuning/binary_submodels_multiclass/submodels_anx_dep_we.py" />
+        <option value="$PROJECT_DIR$/experiments/hyperparameter_tuning/binary_submodels_multiclass/submodels_comorbity.py" />
+        <option value="$PROJECT_DIR$/experiments/hyperparameters_tuning/ensemble_stack_test_v2.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="-4" />
+    <option name="width" value="1920" />
+    <option name="height" value="1084" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="deep-learning-for-mental-health" type="b2602c69:ProjectViewProjectNode" />
+              <item name="deep-learning-for-mental-health" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deep-learning-for-mental-health" type="b2602c69:ProjectViewProjectNode" />
+              <item name="deep-learning-for-mental-health" type="462c0819:PsiDirectoryNode" />
+              <item name="experiments" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deep-learning-for-mental-health" type="b2602c69:ProjectViewProjectNode" />
+              <item name="deep-learning-for-mental-health" type="462c0819:PsiDirectoryNode" />
+              <item name="experiments" type="462c0819:PsiDirectoryNode" />
+              <item name="hyperparameters_tuning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deep-learning-for-mental-health" type="b2602c69:ProjectViewProjectNode" />
+              <item name="deep-learning-for-mental-health" type="462c0819:PsiDirectoryNode" />
+              <item name="experiments" type="462c0819:PsiDirectoryNode" />
+              <item name="stacked_ensemble" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deep-learning-for-mental-health" type="b2602c69:ProjectViewProjectNode" />
+              <item name="deep-learning-for-mental-health" type="462c0819:PsiDirectoryNode" />
+              <item name="experiments" type="462c0819:PsiDirectoryNode" />
+              <item name="stacked_ensemble" type="462c0819:PsiDirectoryNode" />
+              <item name="qualitative_analysis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deep-learning-for-mental-health" type="b2602c69:ProjectViewProjectNode" />
+              <item name="deep-learning-for-mental-health" type="462c0819:PsiDirectoryNode" />
+              <item name="experiments" type="462c0819:PsiDirectoryNode" />
+              <item name="stacked_ensemble" type="462c0819:PsiDirectoryNode" />
+              <item name="quantitative_analysis" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/experiments/hyperparameter_tuning" />
+      <recent name="$PROJECT_DIR$/experiments/hyperparameter_tuning/binary_submodels_multiclass" />
+      <recent name="$PROJECT_DIR$/experiments/hyperparameter_tuning/binary_submodels_multiclass/improve_performance_we" />
+      <recent name="$PROJECT_DIR$/experiments/hyperparameter_tuning/binary_submodels_multiclass/improve_performance_we/depression" />
+      <recent name="$PROJECT_DIR$/experiments/hyperparameter_tuning/experiment_multilabel" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="daa1c0d0-4336-4275-9604-7ebdf52c213d" name="Default Changelist" comment="" />
+      <created>1597605281708</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597605281708</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="-4" width="1920" height="1084" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26467448" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="R Packages" />
+      <window_info anchor="right" id="R Graphics" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/utils/con_postgres.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="26" column="55" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="25" />
+          <folding>
+            <element signature="e#1#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/network_model/model_class.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/network_model/stacked_ensemble.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10945" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/definition_network.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="63" column="32" selection-start-line="63" selection-start-column="32" selection-end-line="63" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/preprocess_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="54" column="49" selection-start-line="54" selection-start-column="49" selection-end-line="54" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/experiments/hyperparameters_tuning/multiclass_lstm_model_v2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-912" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/experiments/hyperparameters_tuning/multiclass_submodels_pcad.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14185" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/experiments/hyperparameters_tuning/multiclass_submodels_pcad_v2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="735" column="53" selection-start-line="735" selection-start-column="53" selection-end-line="735" selection-end-column="53" />
+          <folding>
+            <element signature="e#39#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/experiments/hyperparameters_tuning/submodels.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="647">
+          <caret line="569" column="4" selection-start-line="569" selection-start-column="4" selection-end-line="569" selection-end-column="4" />
+          <folding>
+            <element signature="e#552#5473#0" />
+            <element signature="e#5645#10898#0" />
+            <element signature="e#11032#16008#0" />
+            <element signature="e#16142#21118#0" />
+            <element signature="e#21256#26232#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/experiments/hyperparameters_tuning/submodels_comorbity.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3367">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/experiments/hyperparameters_tuning/submodels_comorbity.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3367">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/experiments/hyperparameters_tuning/submodels_anx_dep_we.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#39#57#0" expanded="true" />
+            <element signature="e#555#5154#0" />
+            <element signature="e#5349#9994#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/experiments/hyperparameters_tuning/word_embeddings_only_pathologies.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8587">
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/experiments/hyperparameters_tuning/experiment_multilabel/multiclass_lstm_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5815">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/experiments/hyperparameters_tuning/multiclass_lstm_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5905" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/experiments/stacked_ensemble/representation_models/t2_E_16_BS_8_US_2_N_12_HL_3_M_ac_AO_No_LF_bi_OP_adam_AH_ta_KI_gl_UB_T_BI_ze_KR_None_BR_None_AR_None_KC_No_BC_No_train_valid_kf_0_ens_stk_model.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/experiments/stacked_ensemble/representation_models/t1_E_16_BS_8_US_3_N_12_HL_3_M_ac_AO_No_LF_bi_OP_adam_AH_ta_KI_gl_UB_T_BI_ze_KR_None_BR_None_AR_None_KC_No_BC_No_train_valid_kf_0_ens_stk_model.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/experiments/hyperparameters_tuning/ensemble_stack_test_v2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="93" column="24" lean-forward="true" selection-start-line="93" selection-start-column="24" selection-end-line="93" selection-end-column="24" />
+          <folding>
+            <element signature="e#40#77#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ensemble_stack_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="791">
+          <caret line="104" selection-start-line="104" selection-end-line="104" />
+          <folding>
+            <element signature="e#39#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/experiments/hyperparameters_tuning/lstm_models_for_multilabel_dataset_20-03-08.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/experiments/stacked_ensemble/qualitative_analysis/word_embeddings_vocabulary.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
